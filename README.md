@@ -68,4 +68,4 @@ This is the second exercise I've made for Frontend Mentor, it helped me a lot to
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Shoutout to my friends who had helped me by being my testers in their phones and computers
