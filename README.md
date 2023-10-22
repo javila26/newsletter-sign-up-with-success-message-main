@@ -31,7 +31,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./newsletter-dekstop-solution.png)
-![](./newsletter-mobile-solution.png)
+![](./newsletter-mobilesolution.png)
 
 ### Links
 
