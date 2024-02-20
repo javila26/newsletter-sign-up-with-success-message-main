@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/newsletter-sign-up-page-made-with-html-css-and-js--q7RZxmR0f)
+- Live Site URL: [Live URL](https://javila26.github.io/newsletter-sign-up-with-success-message-main/)
 
 ## My process
 I designed the HTML layout first, I applied the styles for desktop and then resized it with media queries for the mobile version. After having all the interface ready I added the Javascript functionalities.
@@ -58,7 +58,7 @@ This is the second exercise I've made for Frontend Mentor, it helped me a lot to
 
 ### Useful resources
 
-- [MDN](https://developer.mozilla.org/es/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [MDN](https://developer.mozilla.org/es/) 
 - [W3Schools CSS](https://www.w3schools.com/css/) - Having always a bit code to mess with and make sure of understanding a property comes very handy.
 
 ## Author
